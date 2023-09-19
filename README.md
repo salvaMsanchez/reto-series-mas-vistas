@@ -1,6 +1,6 @@
 # Las series más vistas
 
-![Entrada del programa](images/tiempoMemoria.png)
+![Tiempo y memoria a consumir máximos](images/tiempoMemoria.png)
 
 Para las distintas plataformas de streaming de vídeo es muy importante la inversión en marketing necesaria para conseguir un nuevo cliente y el tiempo medio de permanencia de ese cliente. Si los beneficios provocados durante ese periodo de permanencia superan el coste de captación, todo va bien. Si la situación generalizada es la contraria y los clientes abandonan antes de recuperar esa inversión de captación, entonces la plataforma de streaming tiene problemas.
 
@@ -41,5 +41,3 @@ Tras cada caso de prueba aparecerá una línea con tres guiones ("---").
 ---
 
 [🛜 Aquí puedes encontrar el sitio web oficial donde se encuentra este reto.](https://aceptaelreto.com/pub/problems/v007/00/st/statements/Spanish/index.html)
-
-[^info]: Es una simplificación porque a partir de un punto, los calibres reales ni siquiera son consecutivos.
